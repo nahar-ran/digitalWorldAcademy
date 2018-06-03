@@ -16,3 +16,21 @@ html body #titleDiv div#titleText p {
   width: 50%;
   margin-left: 25%;
 }
+html body div#section1 {
+  height: 300px;
+}
+html body div#section1 div#formContainer {
+  background: url('../resources/brand1.png') no-repeat center;
+  background-size: contain;
+  height: 100%;
+  position: relative;
+}
+html body div#section1 div#formContainer form#userForm {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 300px;
+  height: 100px;
+  margin-left: -42px;
+  margin-top: -19px;
+}
