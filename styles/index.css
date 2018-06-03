@@ -1,8 +1,8 @@
-html body header h1 {
+html body #titleDiv h1 {
   color: #5023b1;
   text-align: center;
   text-decoration: underline;
 }
-html body header p {
+html body #titleDiv p {
   text-align: center;
 }
