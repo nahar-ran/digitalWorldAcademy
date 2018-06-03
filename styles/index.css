@@ -1,0 +1,8 @@
+html body header h1 {
+  color: #5023b1;
+  text-align: center;
+  text-decoration: underline;
+}
+html body header p {
+  text-align: center;
+}
