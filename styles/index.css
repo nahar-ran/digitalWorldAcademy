@@ -1,8 +1,15 @@
-html body #titleDiv h1 {
+html body header {
+  height: 20px;
+}
+html body #titleDiv {
   color: #5023b1;
+}
+html body #titleDiv h1 {
   text-align: center;
   text-decoration: underline;
 }
-html body #titleDiv p {
+html body #titleDiv div#titleText p {
   text-align: center;
+  width: 50%;
+  margin-left: 25%;
 }
