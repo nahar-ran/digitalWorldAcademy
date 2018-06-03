@@ -3,6 +3,9 @@ html body header {
 }
 html body #titleDiv {
   color: #5023b1;
+  background: url('../resources/titleBackground.jpg') no-repeat center;
+  background-size: cover;
+  height: 125px;
 }
 html body #titleDiv h1 {
   text-align: center;
